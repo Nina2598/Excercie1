@@ -1,0 +1,95 @@
+body{
+    background-image:url(img/background.png);
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+.menu{
+    background-color: #C55394;
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+}
+.menus{
+    display: flex;
+    flex-wrap: wrap;
+    color: #fff;
+}
+.menus p{
+    margin-right: 20px;   
+    padding: 10px; 
+}
+.menu p:hover{
+    background-color: #EB43A3;
+}
+.menus h3{
+    margin: 10px;
+    font-family: 'courgette', cursive;    
+}
+h2{
+    color: #C55394;
+    font-family: 'courgette', cursive;
+    text-align: center;
+    margin-top: 30px;
+    padding: 50px;
+    background-image: url(img/rainbow.png);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    }
+    section{
+        display: block;
+        width: 1000px;
+        height: 1150px;
+        background: white;
+        margin:0% 25%;
+        padding: 20px;
+       box-shadow: inset 1px 1px 5px 5px
+       rgb(172, 164, 164);
+        border-radius: 2%;
+        margin-top: -30px;
+
+    }
+    p{
+        font-family: Arial, sans-serif;
+    }
+    h4{
+        font-family:cursive;
+        color:#EB43A3 ;
+        font-size: x-large;
+    }
+   .image{
+       display: flex;
+       flex-wrap: wrap;
+   }
+   .image img{
+    height: 210px;
+    margin-right: 20px;
+    width: 230px;
+   }
+   .maps{
+       display: flex;
+   }
+   .map1{
+       margin: 20px;
+   }
+   button{
+       color: white;
+       background-color: #C55394;
+   }
+   .maps h3{
+       color: #C55394;
+       font-family:'courgette', cursive;
+   }
+   footer{
+       background-color: #C55394;
+        padding: 10px;
+        margin-top: 40px;
+}
+   footer p{
+       text-align: right;
+       color: #fff;
+   }
+  
